@@ -11,6 +11,7 @@ Also, give the bash script permission to execute
 sudo chmod 777 ./dokuwiki
 cd dokuwiki
 chmod -R 777 data/ ; chmod -R 777 lib/ ; chmod -R 777 conf/
+cd ../
 chmod 700 ./run.sh
 
 ```
