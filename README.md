@@ -22,5 +22,5 @@ Now run the bash script to startup
 ```
 Optionally create an alias so you can startup this dokuwiki anywhere
 ```
-alias dokuwiki=~/dokuwikiwin/run.sh #assuming repository cloned to home directory
+alias dokuwiki="~/dokuwiki-on-docker/run.sh" #assuming repository cloned to home directory
 ```
