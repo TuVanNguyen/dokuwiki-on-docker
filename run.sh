@@ -1,4 +1,6 @@
 #! /bin/bash
+BASEDIR=$(dirname $0) #go to directory where script is located
+cd $BASEDIR
 sudo git pull
 sleep 1 && xdg-open http://localhost:80 &
 sudo docker-compose up --remove-orphans 
