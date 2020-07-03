@@ -1,0 +1,51 @@
+====== Basic Spreads ======
+
+===== One Card Spread =====
+  * for simple inquiries
+  * often for yes/no questions and interpreted based on whether card has positive or negative meaning
+
+===== 3 Card Spread =====
+{{ :tools:tarot:3card.png?direct&200|}} 
+
+General:
+  * Past/Present/Future
+  * Strength/Weaknesses/Advice
+  * Actions/Thoughts/Emotions
+  * Sub-conscious/ Conscious / Super-conscious
+  * Career/Relationships/Personal Development
+
+Personal Development:
+  * Body/Mind/Spirit
+  * Me/My potential/My path
+
+Problem Solving:
+  * Situation/Action/Result
+  * Present Situation / Desired Outcome / Recommended Action
+  * Problem/Cause/Solution
+  * Aspirations/Obstacles/Path Forward
+  * What worked / what didn't / what am I to learn?
+  * What can I change / What can't I change / What am I not aware of
+
+Love:
+  * Me / The other person / The relationship
+
+===== The Celtic Cross =====
+{{ :tools:tarot:blog-celtic-cross.jpg?direct&300|https://www.biddytarot.com/how-to-read-the-celtic-cross-tarot-spread/}}
+
+  - The Present: how you perceive the situation, what's happening 
+  - The Challenge
+  - The Past
+  - The Future: not the final outcome, but what's coming up ahead
+  - Above: goal, aspiration, best outcome
+  - Below: underlying feelings and trends, what's driving you
+  - Advice
+  - External Influences: beyond your control
+  - Hopes and Fears
+  - Outcome: if you continue your course
+
+Synergies to Look Out for:
+  * Above and Below (5 and 6)
+  * Above and Outcome (5 and 10)
+  * Future and Outcome (4 and 10)
+  * Below and Hopes and Fears (6 and 9)
+  * Advice and Outcome (7 and 10) 
