@@ -1,0 +1,13 @@
+<markdown>
+# Hypnosis Fundamentals
+
+## Topics
+
+[Settling](wiki:skills:hypnosis:settling)
+
+[Induction](wiki:skills:hypnosis:induction): inducing trance
+
+[Change-work](wiki:skills:hypnosis:changework)
+
+
+</markdown>

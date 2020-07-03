@@ -1,5 +1,7 @@
 ===== Mental Skills =====
+  * [[wiki:skills:hypnosis | Hypnosis ]]
   * [[wiki:skills:meditation | Meditation]]
+
 
 ===== Tools =====
   * [[tools:tarot | Tarot]]
