@@ -97,3 +97,5 @@
 1582321330	::1	E	path:social:hierarchy	tuvan	[Submissive] 		2
 1582321356	::1	E	path:social:hierarchy	tuvan	[Rejective] 		-28
 1582321389	::1	E	path:social:hierarchy	tuvan	[Dominant] 		3
+1587078129	127.0.0.1	E	path:social:hierarchy		external edit		0
+1593739105	172.23.0.1	D	path:social:hierarchy		removed		-3502

@@ -1,6 +1,0 @@
-====== Social Engineering ======
-
-===== Topics =====
-[[paths:social:laws | The Laws of Social Engineering]]
-
-[[path:social:hierarchy | Tiers of the Social Hierarchy]]

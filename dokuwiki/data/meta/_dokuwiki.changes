@@ -1,2 +1,10 @@
 1588170195	172.23.0.1	C	start		created		4
 1588170237	172.24.0.1	D	start		removed		-4
+1587078129	127.0.0.1	E	paths:social:laws		external edit		0
+1593739095	172.23.0.1	D	paths:social:laws		removed		-1787
+1587078129	127.0.0.1	E	path:social:hierarchy		external edit		0
+1593739105	172.23.0.1	D	path:social:hierarchy		removed		-3502
+1587078129	127.0.0.1	E	paths:social		external edit		0
+1593739111	172.23.0.1	D	paths:social		removed		-167
+1587078129	127.0.0.1	E	wiki:navigation		external edit		0
+1593739163	172.23.0.1	E	wiki:navigation				-42

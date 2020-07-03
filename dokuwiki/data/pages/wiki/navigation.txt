@@ -6,7 +6,6 @@
   * [[tools:planetary | Planetary Magick]]
 
 ===== Paths =====
-  * [[paths:social | Social Engineering]]
   * [[paths:tulpamancy | Tulpamancy]]
 
 ===== Purposes =====

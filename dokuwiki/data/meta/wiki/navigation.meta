@@ -1,4 +1,4 @@
-a:2:{s:7:"current";a:7:{s:4:"date";a:2:{s:7:"created";i:1586799824;s:8:"modified";i:1587078129;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:5:"title";s:13:"Mental Skills";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:13:"mental_skills";s:5:"title";s:13:"Mental Skills";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:5:"tools";s:5:"title";s:5:"Tools";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:5:"paths";s:5:"title";s:5:"Paths";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:8:"purposes";s:5:"title";s:8:"Purposes";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:140:"Mental Skills
+a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1586799824;s:8:"modified";i:1593739163;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1593739163;s:2:"ip";s:10:"172.23.0.1";s:4:"type";s:1:"E";s:2:"id";s:15:"wiki:navigation";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-42;}s:5:"title";s:13:"Mental Skills";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:13:"mental_skills";s:5:"title";s:13:"Mental Skills";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:1;a:4:{s:3:"hid";s:5:"tools";s:5:"title";s:5:"Tools";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:5:"paths";s:5:"title";s:5:"Paths";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:8:"purposes";s:5:"title";s:8:"Purposes";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:116:"Mental Skills
 
 	*   Meditation
 
@@ -9,9 +9,8 @@ Tools
 
 Paths
 
-	*   Social Engineering
 	*   Tulpamancy
 
 Purposes
 
-	*   Love";}s:8:"relation";a:2:{s:10:"references";a:6:{s:22:"wiki:skills:meditation";b:0;s:11:"tools:tarot";b:1;s:15:"tools:planetary";b:1;s:12:"paths:social";b:1;s:16:"paths:tulpamancy";b:1;s:13:"purposes:love";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:3:{s:4:"date";a:1:{s:7:"created";i:1586799824;}s:4:"user";s:0:"";s:7:"creator";s:0:"";}}
+	*   Love";}s:8:"relation";a:2:{s:10:"references";a:5:{s:22:"wiki:skills:meditation";b:0;s:11:"tools:tarot";b:1;s:15:"tools:planetary";b:1;s:16:"paths:tulpamancy";b:1;s:13:"purposes:love";b:1;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:4:{s:4:"date";a:2:{s:7:"created";i:1586799824;s:8:"modified";i:1593739163;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"last_change";a:8:{s:4:"date";i:1593739163;s:2:"ip";s:10:"172.23.0.1";s:4:"type";s:1:"E";s:2:"id";s:15:"wiki:navigation";s:4:"user";s:0:"";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:-42;}}}
