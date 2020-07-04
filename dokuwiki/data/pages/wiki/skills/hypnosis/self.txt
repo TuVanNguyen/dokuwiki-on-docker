@@ -1,0 +1,17 @@
+{{ :wiki:skills:hypnosis:self-hypnosis_model.png?400| Model for Self-Hypnosis}}
+
+<markdown>
+# Self-hypnosis
+
+## Types of Frames
+
+### Positive Framing
+  * building, strengthening, and maintaining positive suggestions
+  * think, feel, behave differently
+  * better for beginners to start here
+
+### Negative Framing
+  * breaking or untangling suggestions ("dehypnotizing")
+  * address underlying problems 
+
+</markdown>

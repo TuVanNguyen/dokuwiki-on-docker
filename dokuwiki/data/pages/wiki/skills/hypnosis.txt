@@ -1,9 +1,15 @@
 <markdown>
 # Hypnosis Fundamentals
+  * the study of altered states (i.e reduce attention from the many to become absorbed on a single element of experience; trance; flow)
+
+
+## Scope
+
+[Self-Hypnosis](wiki:skills:hypnosis:self)
 
 ## Topics
 
-[Settling](wiki:skills:hypnosis:settling)
+[Settling](wiki:skills:hypnosis:settling): basically preparation
 
 [Induction](wiki:skills:hypnosis:induction): inducing trance
 
