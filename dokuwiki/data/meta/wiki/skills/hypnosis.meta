@@ -1,15 +1,9 @@
-a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1593820289;s:8:"modified";i:1593827457;}s:11:"last_change";a:8:{s:4:"date";i:1593827457;s:2:"ip";s:10:"172.26.0.1";s:4:"type";s:1:"E";s:2:"id";s:20:"wiki:skills:hypnosis";s:4:"user";s:5:"tuvan";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:136;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:5:"tuvan";s:13:"Tu Van Nguyen";}s:5:"title";s:21:"Hypnosis Fundamentals";s:11:"description";a:2:{s:15:"tableofcontents";a:3:{i:0;a:4:{s:3:"hid";s:21:"hypnosis_fundamentals";s:5:"title";s:21:"Hypnosis Fundamentals";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:5:"scope";s:5:"title";s:5:"Scope";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:6:"topics";s:5:"title";s:6:"Topics";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:260:"Hypnosis Fundamentals
+a:2:{s:7:"current";a:9:{s:4:"date";a:2:{s:7:"created";i:1593820289;s:8:"modified";i:1594582561;}s:11:"last_change";a:8:{s:4:"date";i:1594582561;s:2:"ip";s:10:"172.19.0.1";s:4:"type";s:1:"E";s:2:"id";s:20:"wiki:skills:hypnosis";s:4:"user";s:5:"tuvan";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:5;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:5:"tuvan";s:13:"Tu Van Nguyen";}s:5:"title";s:21:"Hypnosis Fundamentals";s:11:"description";a:2:{s:15:"tableofcontents";a:4:{i:0;a:4:{s:3:"hid";s:21:"hypnosis_fundamentals";s:5:"title";s:21:"Hypnosis Fundamentals";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:25:"main_elements_of_hypnosis";s:5:"title";s:25:"Main Elements of Hypnosis";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:2;a:4:{s:3:"hid";s:5:"scope";s:5:"title";s:5:"Scope";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:3;a:4:{s:3:"hid";s:6:"topics";s:5:"title";s:6:"Topics";s:4:"type";s:2:"ul";s:5:"level";i:2;}}s:8:"abstract";s:317:"Hypnosis Fundamentals
 
 * the study of altered states (i.e reduce attention from the many to become absorbed on a single element of experience; trance; flow)
 
-Scope
+Main Elements of Hypnosis
 
-Self-Hypnosis
-
-Topics
-
-Settling: basically preparation
-
-Induction: inducing trance
-
-Change-work";}s:8:"relation";a:2:{s:10:"references";a:4:{s:25:"wiki:skills:hypnosis:self";b:1;s:29:"wiki:skills:hypnosis:settling";b:0;s:30:"wiki:skills:hypnosis:induction";b:0;s:31:"wiki:skills:hypnosis:changework";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1593820289;s:8:"modified";i:1593827457;}s:11:"last_change";a:8:{s:4:"date";i:1593827457;s:2:"ip";s:10:"172.26.0.1";s:4:"type";s:1:"E";s:2:"id";s:20:"wiki:skills:hypnosis";s:4:"user";s:5:"tuvan";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:136;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:5:"tuvan";s:13:"Tu Van Nguyen";}}}
+* absorption
+* imagination
+* responsiveness: doing things automatically, with less conscious will or control, let the process happen";}s:8:"relation";a:2:{s:10:"references";a:4:{s:25:"wiki:skills:hypnosis:self";b:1;s:29:"wiki:skills:hypnosis:settling";b:0;s:30:"wiki:skills:hypnosis:induction";b:0;s:31:"wiki:skills:hypnosis:changework";b:0;}s:10:"firstimage";s:0:"";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1593820289;s:8:"modified";i:1594582561;}s:11:"last_change";a:8:{s:4:"date";i:1594582561;s:2:"ip";s:10:"172.19.0.1";s:4:"type";s:1:"E";s:2:"id";s:20:"wiki:skills:hypnosis";s:4:"user";s:5:"tuvan";s:3:"sum";s:0:"";s:5:"extra";s:0:"";s:10:"sizechange";i:5;}s:4:"user";s:0:"";s:7:"creator";s:0:"";s:11:"contributor";a:1:{s:5:"tuvan";s:13:"Tu Van Nguyen";}}}
