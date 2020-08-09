@@ -7,18 +7,11 @@
 ^ Direction | South | North | East| West |
 
 ===== Major Arcana=====
-
-<WRAP group>
-<WRAP half column>
 ====Deity Correspondences====
 
 ^ Number ((https://www.thetetraktys.com/2018/tarot-magick-10-ways-tarot-witchcraft/))^ Trump Name ^ Egyptian ^ Greek ^ Roman ^
-</WRAP>
 
-<WRAP half column>
+
 {{:tools:tarot:glyphstarot.jpg?direct&200|}}
-</WRAP>
-
-</WRAP>
 
 

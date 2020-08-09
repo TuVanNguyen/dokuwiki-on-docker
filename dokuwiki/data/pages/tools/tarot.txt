@@ -19,6 +19,8 @@
 
 [Love Spreads](tools:tarot:love)
 
+[New Beginnings Spreads](tools:tarot:beginnings)
+
 [Interview Spreads](tools:tarot:interview)
 
 ## Symbolism

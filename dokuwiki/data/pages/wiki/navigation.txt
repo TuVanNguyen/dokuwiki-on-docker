@@ -5,10 +5,12 @@
 
 ===== Tools =====
   * [[tools:tarot | Tarot]]
-  * [[tools:planetary | Planetary Magick]]
+  * [[tools:oils | Essential and Fragrance Oils ]]
+
 
 ===== Paths =====
   * [[paths:tulpamancy | Tulpamancy]]
+  * [[tools:planetary | Planetary Magick]]
 
 ===== Purposes =====
   * [[purposes:love | Love]]

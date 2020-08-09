@@ -17,3 +17,18 @@
 1593827457	172.26.0.1	E	wiki:skills:hypnosis	tuvan			136
 1594582550	172.19.0.1	E	wiki:skills:hypnosis	tuvan			164
 1594582561	172.19.0.1	E	wiki:skills:hypnosis	tuvan			5
+1597011734	172.18.0.1	E	tools:tarot	tuvan			50
+1587078129	127.0.0.1	E	tools:tarot:correspondences		external edit		0
+1597012723	172.18.0.1	E	tools:tarot:correspondences	tuvan	[Deity Correspondences] 		-43
+1597012747	172.18.0.1	E	tools:tarot:correspondences	tuvan	[Major Arcana] 		-33
+1597013300	172.18.0.1	C	tools:tarot:beginnings	tuvan	created		456
+1597013501	172.18.0.1	E	wiki:navigation	tuvan			1
+1597013654	172.18.0.1	E	wiki:navigation	tuvan	[Tools] 		31
+1597013920	172.18.0.1	C	tools:scents	tuvan	created		104
+1597013992	172.18.0.1	E	wiki:navigation	tuvan	[Tools] 		20
+1597014058	172.18.0.1	D	tools:scents	tuvan	removed		-104
+1597014082	172.18.0.1	C	tools:oils	tuvan	created		126
+1597014330	172.18.0.1	C	tools:scents:aphrodisiacs	tuvan	created		62
+1597014350	172.18.0.1	E	tools:oils	tuvan			-2
+1597014364	172.18.0.1	D	tools:scents:aphrodisiacs	tuvan	removed		-62
+1597015653	172.18.0.1	C	tools:oils:aphrodisiacs	tuvan	created		422
