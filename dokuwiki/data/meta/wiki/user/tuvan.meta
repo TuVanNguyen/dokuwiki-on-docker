@@ -1,13 +1,1 @@
-a:2:{s:7:"current";a:8:{s:4:"date";a:2:{s:7:"created";i:1579141577;s:8:"modified";i:1587078129;}s:7:"creator";s:6:"Tu Van";s:4:"user";s:5:"tuvan";s:11:"last_change";b:0;s:5:"title";s:6:"Tu Van";s:11:"description";a:2:{s:15:"tableofcontents";a:8:{i:0;a:4:{s:3:"hid";s:6:"tu_van";s:5:"title";s:6:"Tu Van";s:4:"type";s:2:"ul";s:5:"level";i:1;}i:1;a:4:{s:3:"hid";s:9:"astrology";s:5:"title";s:9:"Astrology";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:2;a:4:{s:3:"hid";s:20:"element_predominance";s:5:"title";s:20:"Element Predominance";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:3;a:4:{s:3:"hid";s:16:"planet_dominants";s:5:"title";s:16:"Planet Dominants";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:4;a:4:{s:3:"hid";s:17:"enneagram_results";s:5:"title";s:17:"Enneagram Results";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:5;a:4:{s:3:"hid";s:29:"w6the_challenger_the_maverick";s:5:"title";s:34:"5w6 : The Challenger, the Maverick";s:4:"type";s:2:"ul";s:5:"level";i:3;}i:6;a:4:{s:3:"hid";s:19:"myer-briggs_results";s:5:"title";s:19:"Myer-Briggs Results";s:4:"type";s:2:"ul";s:5:"level";i:2;}i:7;a:4:{s:3:"hid";s:18:"intj-tthe_mediator";s:5:"title";s:21:"INTJ-T : The Mediator";s:4:"type";s:2:"ul";s:5:"level";i:3;}}s:8:"abstract";s:269:"Tu Van
-
-Astrology
-
-	*  Birth Date and Time: Sunday, August 3 1997, 06:45 PM
-	*  Birth Location: Los Angeles (Los Angeles), California
-	*  Chinese Sign: Fire Ox
-	*  Signature Sign: Leo
-
-Element Predominance
-
- Calculator here
-Fire  Earth  Air  Water 44.44%  29.63% 25.93%";}s:8:"internal";a:2:{s:5:"cache";b:1;s:3:"toc";b:1;}s:8:"relation";a:1:{s:10:"firstimage";s:0:"";}}s:10:"persistent";a:4:{s:4:"date";a:1:{s:7:"created";i:1579141577;}s:7:"creator";s:6:"Tu Van";s:4:"user";s:5:"tuvan";s:11:"last_change";b:0;}}
+a:2:{s:7:"current";a:9:{s:4:"date";s:0:"";s:7:"creator";s:0:"";s:4:"user";s:0:"";s:11:"last_change";s:0:"";s:11:"contributor";s:0:"";s:5:"title";s:0:"";s:11:"description";s:0:"";s:8:"internal";s:0:"";s:8:"relation";s:0:"";}s:10:"persistent";a:5:{s:4:"date";a:2:{s:7:"created";i:1579141577;s:8:"modified";i:1609029523;}s:7:"creator";s:6:"Tu Van";s:4:"user";s:5:"tuvan";s:11:"last_change";a:8:{s:4:"date";i:1609029523;s:2:"ip";s:10:"172.23.0.1";s:4:"type";s:1:"E";s:2:"id";s:15:"wiki:user:tuvan";s:4:"user";s:5:"tuvan";s:3:"sum";s:24:"[INTJ-T : The Mediator] ";s:5:"extra";s:0:"";s:10:"sizechange";i:-627;}s:11:"contributor";a:1:{s:5:"tuvan";s:13:"Tu Van Nguyen";}}}

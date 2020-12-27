@@ -1,8 +1,0 @@
-====== Tulpamancy ======
-
-===== The System =====
-[[tulpamancy:mission | Mission Statement ]]
-===== System Members =====
-[[tulpamancy:ariel | Ariel]]
-
-[[wiki:user:tuvan | Tu Van]]
